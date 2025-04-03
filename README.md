@@ -67,7 +67,3 @@ Escolha a opção desejada digitando o número correspondente.
 ## Contribuindo
 
 Se você gostaria de contribuir para este projeto, por favor, faça um fork do repositório, crie uma branch para suas alterações e envie um pull request com suas melhorias.
-
-## Licença
-
-Este projeto é de código aberto e pode ser usado, modificado e distribuído de acordo com a licença MIT.
