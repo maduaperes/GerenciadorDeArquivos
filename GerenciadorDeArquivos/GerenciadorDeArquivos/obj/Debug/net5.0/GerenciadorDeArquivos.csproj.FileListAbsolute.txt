@@ -1,0 +1,16 @@
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\bin\Debug\net5.0\ExercícioCSharp.exe
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\bin\Debug\net5.0\ExercícioCSharp.deps.json
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\bin\Debug\net5.0\ExercícioCSharp.runtimeconfig.json
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\bin\Debug\net5.0\ExercícioCSharp.runtimeconfig.dev.json
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\bin\Debug\net5.0\ExercícioCSharp.dll
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\bin\Debug\net5.0\ref\ExercícioCSharp.dll
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\bin\Debug\net5.0\ExercícioCSharp.pdb
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\obj\Debug\net5.0\ExercícioCSharp.csproj.AssemblyReference.cache
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\obj\Debug\net5.0\ExercícioCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\obj\Debug\net5.0\ExercícioCSharp.AssemblyInfoInputs.cache
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\obj\Debug\net5.0\ExercícioCSharp.AssemblyInfo.cs
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\obj\Debug\net5.0\ExercícioCSharp.csproj.CoreCompileInputs.cache
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\obj\Debug\net5.0\ExercícioCSharp.dll
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\obj\Debug\net5.0\ref\ExercícioCSharp.dll
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\obj\Debug\net5.0\ExercícioCSharp.pdb
+C:\Users\maria.eaperes\source\repos\ExercícioCSharp\ExercícioCSharp\obj\Debug\net5.0\ExercícioCSharp.genruntimeconfig.cache
