@@ -45,15 +45,16 @@ O código principal do aplicativo está na classe `Program`, que contém o méto
 ## Exemplo de Execução
 
 Após rodar o projeto, o menu será exibido com as opções disponíveis. Aqui está um exemplo de como o menu aparece no console:
-
-1 - **Criar Pasta**
-2 - **Criar Arquivo** 
-3 - **Deletar Pasta**
-4 - **Deletar Arquivo** 
-5 - **Renomear Pasta** 
-6 - **Renomear Arquivo**
-7 - **Adicionar Texto ao Arquivo**
-8 - **Sair Escolha uma opção:**
+```
+1. Criar Pasta:
+2. Criar Arquivo: 
+3. Deletar Pasta:
+4. Deletar Arquivo:
+5. Renomear Pasta:
+6. Renomear Arquivo:
+7. Adicionar Texto ao Arquivo:
+8. Sair Escolha uma opção:
+```
 
 Escolha a opção desejada digitando o número correspondente.
 
